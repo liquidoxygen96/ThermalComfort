@@ -1,0 +1,8 @@
+{
+  "name": "v1.0",
+  "version": "1.0.0",
+  "description": "PMV_PPD calculator",
+  "main": "index.js",
+  "author": "0xSayatoshi",
+  "license": "MIT"
+}
